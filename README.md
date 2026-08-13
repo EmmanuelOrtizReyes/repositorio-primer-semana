@@ -5,4 +5,4 @@ del puesto "Becario Desarrollador Fullstack"
 
 Edicion del archivo README.md
 
-Añadimos un comentario extra en ambas ramas para generar un conflicto de integración.
+Eliminamos ambos comentarios y dejamos uno nuevo para corregir el merge conflict
