@@ -6,3 +6,5 @@ del puesto "Becario Desarrollador Fullstack"
 Edicion del archivo README.md
 
 Eliminamos ambos comentarios y dejamos uno nuevo para corregir el merge conflict
+
+Ultimo merge para asignar un reviewer
